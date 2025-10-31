@@ -49,3 +49,21 @@ http://127.0.0.1:8000/docs
 
 ## License
 MIT License
+
+---
+
+## IMPORTANT
+Don't delete or edit anything inside the ``` marks — they create code blocks.
+
+---
+
+### Now do this:
+
+1. Replace your README file contents with the above
+2. Save it
+3. Run:
+
+```bash
+git add README.md
+git commit -m "Clean README formatting"
+git push
